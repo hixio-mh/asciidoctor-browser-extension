@@ -27,7 +27,7 @@
   "license": "MIT",
   "devDependencies": {
     "@asciidoctor/core": "2.2.0",
-    "addons-linter": "2.1.0",
+    "addons-linter": "2.15.0",
     "archiver": "5.0.0",
     "asciidoctor-kroki": "0.8.2",
     "bestikk-fs": "1.0.0",
@@ -37,14 +37,14 @@
     "chartist": "0.11.4",
     "csso": "4.0.3",
     "dirty-chai": "^2.0.1",
-    "eslint": "^6.8.0",
+    "eslint": "^7.16.0",
     "font-awesome": "4.7.0",
     "mathjax": "3.0.1",
-    "mocha": "^8.1.0",
+    "mocha": "^8.3.0",
     "node-sass": "4.14.1",
     "puppeteer": "^5.2.1",
     "sinon": "^9.0.2",
-    "standard": "14.3.4"
+    "standard": "15.0.0"
   },
   "keywords": [
     "browser",
